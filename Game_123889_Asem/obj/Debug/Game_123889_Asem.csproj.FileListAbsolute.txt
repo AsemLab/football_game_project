@@ -1,0 +1,29 @@
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.CreatePlayersForm.resources
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.HistoryForm.resources
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.Properties.Resources.resources
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.StatisticsForm.resources
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.Profiles.resources
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\bin\Debug\Game_123889_Asem.exe.config
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\bin\Debug\Game_123889_Asem.exe
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\bin\Debug\Game_123889_Asem.pdb
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.CreatePlayersForm.resources
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.Form1.resources
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.HistoryForm.resources
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.Properties.Resources.resources
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.StatisticsForm.resources
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.Profiles.resources
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.exe
+C:\Users\user\Downloads\Documents\Study\19-20\2nd\C#\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.pdb
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.MainForm.resources
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Game_123889_Asem.RulesForm.resources
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\bin\Debug\Kids football shootout.exe.config
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\bin\Debug\Kids football shootout.exe
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\bin\Debug\Kids football shootout.pdb
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Kids football shootout.exe
+C:\Users\user\source\repos\Game_123889_Asem\Game_123889_Asem\obj\Debug\Kids football shootout.pdb

@@ -1,0 +1,19 @@
+               Welcome to ' Kids football shootout ' !
+ 
+This game consist of three levels:
+    - in level 1 the footballer have 5 tries if he score 3 or more , he move to level 2.
+ 
+    - in level 2 the footballer have 7 tries if he score 4 or more , he move to level 3.
+ 
+    - in level 3 the footballer have 10 tries .
+
+ 
+Scoring rules:
+    Footballer:
+        1) +50 if score a goal.
+        2)  -15  If his ball is hit with distraction balls.
+ 	
+    Goalkeeper:
+        1) +50 if catch a ball.
+        2) +35 if footballer timeout has expired.
+
